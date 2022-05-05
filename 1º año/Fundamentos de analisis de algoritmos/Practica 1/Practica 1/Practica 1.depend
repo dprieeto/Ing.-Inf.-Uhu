@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1554723820 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\faa\practica 1\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1552914960 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\faa\practica 1\conjuntoint.h
+	<iostream>
+
+1554722855 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\faa\practica 1\mtime.cpp
+	"Mtime.h"
+
+1585761174 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\faa\practica 1\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1586286361 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\faa\practica 1\principal.cpp
+	"TestAlgoritmo.h"
+	<iostream>
+	<stdlib.h>
+	"Constantes.h"
+
+1584358925 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\faa\practica 1\testalgoritmo.h
+	<string>
+	<vector>
+	<iostream>
+
+1586286190 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\faa\practica 1\testalgoritmo.cpp
+	"TestAlgoritmo.h"
+	"Constantes.h"
+	"ConjuntoInt.h"
+	"Mtime.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1552914944 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\faa\practica 1\constantes.h
+
+1554723820 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\p1\practica 1\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1552914960 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\p1\practica 1\conjuntoint.h
+	<iostream>
+
+1554722855 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\p1\practica 1\mtime.cpp
+	"Mtime.h"
+
+1585761174 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\p1\practica 1\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1586286361 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\p1\practica 1\principal.cpp
+	"TestAlgoritmo.h"
+	<iostream>
+	<stdlib.h>
+	"Constantes.h"
+
+1584358925 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\p1\practica 1\testalgoritmo.h
+	<string>
+	<vector>
+	<iostream>
+
+1552914944 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\p1\practica 1\constantes.h
+
+1586286190 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\p1\practica 1\testalgoritmo.cpp
+	"TestAlgoritmo.h"
+	"Constantes.h"
+	"ConjuntoInt.h"
+	"Mtime.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1554723820 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\practicas\p1\practica 1\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1552914960 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\practicas\p1\practica 1\conjuntoint.h
+	<iostream>
+
+1554722855 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\practicas\p1\practica 1\mtime.cpp
+	"Mtime.h"
+
+1585761174 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\practicas\p1\practica 1\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1586286361 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\practicas\p1\practica 1\principal.cpp
+	"TestAlgoritmo.h"
+	<iostream>
+	<stdlib.h>
+	"Constantes.h"
+
+1584358925 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\practicas\p1\practica 1\testalgoritmo.h
+	<string>
+	<vector>
+	<iostream>
+
+1552914944 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\practicas\p1\practica 1\constantes.h
+
+1586286190 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\faa\practicas\p1\practica 1\testalgoritmo.cpp
+	"TestAlgoritmo.h"
+	"Constantes.h"
+	"ConjuntoInt.h"
+	"Mtime.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
