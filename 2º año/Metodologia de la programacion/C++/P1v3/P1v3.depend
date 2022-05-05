@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\rdsbl\desktop\p1v3\main.cpp
+	<iostream>
+
+1606578114 source:c:\users\rdsbl\desktop\p1v3\src\cliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1606680746 c:\users\rdsbl\desktop\p1v3\include\cliente.h
+	"Fecha.h"
+
+1606680746 c:\users\rdsbl\desktop\p1v3\include\fecha.h
+	<iostream>
+
+1606689258 source:c:\users\rdsbl\desktop\p1v3\src\contrato.cpp
+	"Contrato.h"
+
+1606689318 c:\users\rdsbl\desktop\p1v3\include\contrato.h
+	"Fecha.h"
+	<iostream>
+
+1606689599 source:c:\users\rdsbl\desktop\p1v3\src\contratomovil.cpp
+	"ContratoMovil.h"
+	<string.h>
+
+1606688933 source:c:\users\rdsbl\desktop\p1v3\src\contratotp.cpp
+	"ContratoTP.h"
+	"Contrato.h"
+
+1606689318 c:\users\rdsbl\desktop\p1v3\include\contratotp.h
+	"Fecha.h"
+	"Contrato.h"
+
+1606681104 source:c:\users\rdsbl\desktop\p1v3\src\fecha.cpp
+	"Fecha.h"
+	<cmath>
+
+1606689515 source:c:\users\rdsbl\desktop\p1v3\src\empresa.cpp
+	<typeinfo>
+	<cstdio>
+	"Empresa.h"
+
+1606689535 c:\users\rdsbl\desktop\p1v3\include\empresa.h
+	"Fecha.h"
+	"Cliente.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1606688897 c:\users\rdsbl\desktop\p1v3\include\contratomovil.h
+	"Fecha.h"
+	"Contrato.h"
+
+1606689648 source:c:\users\rdsbl\desktop\p1v3\practica3v3.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Cliente.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+	"Empresa.h"
+

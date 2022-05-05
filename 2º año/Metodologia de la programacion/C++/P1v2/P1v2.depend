@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1606677527 source:c:\users\rdsbl\desktop\p1v2\prueba2.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1606677556 source:c:\users\rdsbl\desktop\p1v2\src\contrato.cpp
+	"Contrato.h"
+
+1606677605 c:\users\rdsbl\desktop\p1v2\include\contrato.h
+	"Fecha.h"
+	<iostream>
+
+1606579186 c:\users\rdsbl\desktop\p1v2\include\fecha.h
+	<iostream>
+
+1606675209 source:c:\users\rdsbl\desktop\p1v2\src\contratotp.cpp
+	"ContratoTP.h"
+	"Contrato.h"
+
+1606675289 c:\users\rdsbl\desktop\p1v2\include\contratotp.h
+	"Fecha.h"
+	"Contrato.h"
+
+1606578114 source:c:\users\rdsbl\desktop\p1v2\src\cliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1606577959 c:\users\rdsbl\desktop\p1v2\include\cliente.h
+	"Fecha.h"
+
+1606675181 source:c:\users\rdsbl\desktop\p1v2\src\contratomovil.cpp
+	"ContratoMovil.h"
+	<string.h>
+
+1606675289 c:\users\rdsbl\desktop\p1v2\include\contratomovil.h
+	"Fecha.h"
+	<Contrato.h>
+
+1606578173 source:c:\users\rdsbl\desktop\p1v2\src\fecha.cpp
+	"Fecha.h"
+	<cmath>
+
+1606681127 source:c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v2\prueba2.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1606582786 c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v2\include\fecha.h
+	<iostream>
+
+1606690535 c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v2\include\contrato.h
+	"Fecha.h"
+	<iostream>
+
+1606678889 c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v2\include\contratotp.h
+	"Fecha.h"
+	"Contrato.h"
+
+1606678889 c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v2\include\contratomovil.h
+	"Fecha.h"
+	<Contrato.h>
+
+1606581714 source:c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v2\src\cliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1606581559 c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v2\include\cliente.h
+	"Fecha.h"
+
+1606681205 source:c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v2\src\contrato.cpp
+	"Contrato.h"
+
+1606678781 source:c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v2\src\contratomovil.cpp
+	"ContratoMovil.h"
+	<string.h>
+
+1606678809 source:c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v2\src\contratotp.cpp
+	"ContratoTP.h"
+	"Contrato.h"
+
+1606581773 source:c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v2\src\fecha.cpp
+	"Fecha.h"
+	<cmath>
+

@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1606578671 source:c:\users\rdsbl\desktop\p1v1\prueba1.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+
+1606579186 c:\users\rdsbl\desktop\p1v1\include\fecha.h
+	<iostream>
+
+1606577959 c:\users\rdsbl\desktop\p1v1\include\cliente.h
+	"Fecha.h"
+
+1606578114 source:c:\users\rdsbl\desktop\p1v1\src\cliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1606578173 source:c:\users\rdsbl\desktop\p1v1\src\fecha.cpp
+	"Fecha.h"
+	<cmath>
+
+1606578671 source:c:\users\rdsbl\desktop\mp practica 1\pretto\p1v1\prueba1.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+
+1606579186 c:\users\rdsbl\desktop\mp practica 1\pretto\p1v1\include\fecha.h
+	<iostream>
+
+1606577959 c:\users\rdsbl\desktop\mp practica 1\pretto\p1v1\include\cliente.h
+	"Fecha.h"
+
+1606578114 source:c:\users\rdsbl\desktop\mp practica 1\pretto\p1v1\src\cliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1606578173 source:c:\users\rdsbl\desktop\mp practica 1\pretto\p1v1\src\fecha.cpp
+	"Fecha.h"
+	<cmath>
+
+1606582271 source:c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v1\prueba1.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+	"Cliente.h"
+
+1606582786 c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v1\include\fecha.h
+	<iostream>
+
+1606581559 c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v1\include\cliente.h
+	"Fecha.h"
+
+1606581714 source:c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v1\src\cliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1606581773 source:c:\users\rdsbl\pretto\estudios\carrera\ingeniería informática uhu\3º año\1º cuatrimestre\metodologia de la programacion\practicas\c++\pretto\p1v1\src\fecha.cpp
+	"Fecha.h"
+	<cmath>
+
