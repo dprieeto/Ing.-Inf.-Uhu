@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577729967 source:c:\users\rdsbl\desktop\guión 4\e1 g4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+

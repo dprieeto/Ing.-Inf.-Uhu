@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579472363 source:c:\users\rdsbl\desktop\guión 4\e2 g4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
