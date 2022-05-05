@@ -1,0 +1,14 @@
+#ESTE ES UN SCRIPT DE GNUPLOT PARA ESTUDIO DE 1 METODO 
+set title "InterpolacionIt"
+set key top left vertical inside
+set grid
+set xlabel "Talla (n)"
+set ylabel "Tiempo (ms)"
+plot "InterpolacionIt.dat" using 1:2with lines title"InterpolacionIt"
+logN(x) = a*log(x)+b
+fit logN(x) "InterpolacionIt.dat" using 1:2 via a,b
+plot "InterpolacionIt.dat" using 1:2 title "InterpolacionIt.dat", logN(x)
+set terminal pdf
+set output "InterpolacionIt.pdf"
+replot
+pause 5 "Pulsa Enter para continuar..."

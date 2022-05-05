@@ -1,0 +1,11 @@
+#ESTE ES UN SCRIPT DE GNUPLOT PARA LA COMPARACION DE DOS METODOS
+set title "Comparacion tiempos BinariaIt y InterpolacionIt"
+set key top left vertical inside
+set grid
+set xlabel "Talla (n)"
+set ylabel "Tiempo (ms)"
+plot "BinariaIt.dat" using 1:2 with lines title"BinariaIt","InterpolacionIt.dat" using 1:2 with lines title"InterpolacionIt"
+set terminal pdf
+set output "BinariaItInterpolacionIt.pdf"
+replot
+pause 5 "Pulsa Enter para continuar..."
