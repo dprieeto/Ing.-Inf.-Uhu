@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1630927359 source:c:\users\usuario\desktop\examen\src\empleadoh.cpp
+	"EmpleadoH.h"
+
+1630927928 c:\users\usuario\desktop\examen\include\empleadoh.h
+	<Empleado.h>
+
+1630927528 c:\users\usuario\desktop\examen\include\empleado.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<typeinfo>
+
+1630928832 source:c:\users\usuario\desktop\examen\src\empleadov.cpp
+	"EmpleadoV.h"
+
+1630929844 c:\users\usuario\desktop\examen\include\empleadov.h
+	<Empleado.h>
+
+1630927534 source:c:\users\usuario\desktop\examen\src\empleado.cpp
+	"Empleado.h"
+
