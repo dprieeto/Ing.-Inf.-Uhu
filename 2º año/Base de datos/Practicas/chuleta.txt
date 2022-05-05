@@ -1,0 +1,25 @@
+select
+from
+where
+
+as (renombrar)
+* (todo)
+distinct (no se va a repetir valores)
+order by (ordenar asc(ascendentemente), desc(descendentemente))
+in() (comprobar con varios valores)
+between ... and ... (entre)
+like-not like (para comparar con patrones %(espacio  variable), _(espacio unico))
+extract(... from ...) (extraer un parametro de fecha)
+inner join (combinar tablas, combina las que tienen en comun)
+on ...=... (los atributos por los que quiere combinar CP yCA)
+using () (igual que on, pero cuando los atributos son iguales)
+
+Consultas anidadas: llama una consulta para comparar
+in (para ver si se encuentra en esa consulta, tambien =any())
+=all (comparar con todos los valores que devuelve la consulta
+	puede cambiarse por < >,<,>)
+exists-not exist (devuelve true si la consulta devuelve/no devuleve algun/ningun valor)
+count() sum() max() min() avg()
+
+group by (agrupa por nombre)
+having (condicion para el group by)
