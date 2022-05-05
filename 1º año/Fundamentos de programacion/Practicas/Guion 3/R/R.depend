@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573754808 source:c:\users\rdsbl\desktop\guión 3\r\main.cpp
+	<stdio.h>
+	<unistd.h>
+

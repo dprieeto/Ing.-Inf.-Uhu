@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1572267815 source:c:\users\usuario\desktop\e6 g3\main.cpp
+	<iostream>
+	"vector.h"
+
+1572266011 c:\users\usuario\desktop\e6 g3\include\vector.h
+	<iostream>
+	<stdlib.h>
+
+1572267846 source:c:\users\usuario\desktop\e6 g3\src\vector.cpp
+	"vector.h"
+
+1572267816 source:h:\e6 g3\main.cpp
+	<iostream>
+	"vector.h"
+
+1572266012 h:\e6 g3\include\vector.h
+	<iostream>
+	<stdlib.h>
+
+1572268568 source:h:\e6 g3\src\vector.cpp
+	"vector.h"
+

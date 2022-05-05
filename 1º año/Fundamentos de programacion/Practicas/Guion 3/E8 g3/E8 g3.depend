@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1573756121 source:c:\users\rdsbl\desktop\guión 3\e8 g3\main.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<cctype>
+	<string>
+	<vector>
+

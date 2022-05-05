@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572260993 source:c:\users\usuario\desktop\e5 g3\main.cpp
+	<iostream>
+	"matrices.h"
+
+1572261592 c:\users\usuario\desktop\e5 g3\include\matrices.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1572261811 source:c:\users\usuario\desktop\e5 g3\src\matrices.cpp
+	"matrices.h"
+
