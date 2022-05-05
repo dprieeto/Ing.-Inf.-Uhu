@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1591182781 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\practica 2 v2\colapri.cpp
+	"ColaPri.h"
+
+1591182364 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\practica 2 v2\colapri.h
+	"tadcola.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1591182485 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\practica 2 v2\tadcola.h
+	<iostream>
+	<string.h>
+
+1591184798 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\practica 2 v2\listac.cpp
+	"ListaC.h"
+
+1591177286 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\practica 2 v2\listac.h
+	<iostream>
+	"tadcola.h"
+
+1591182716 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\practica 2 v2\tadcola.cpp
+	"tadcola.h"
+
+1591184863 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\practica 2 v2\tadlistad.cpp
+	"TadListaD.h"
+
+1591184406 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\practica 2 v2\tadlistad.h
+	<iostream>
+	"ColaPri.h"
+
+1591184524 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\practica 2 v2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"ColaPri.h"
+	"TadListaD.h"
+	"tadcola.h"
+	"ListaC.h"
+	<string>
+	<string.h>
+	<fstream>
+	<time.h>
+
+1591182781 source:c:\users\rdsbl\desktop\ex\practica 2 v2\colapri.cpp
+	"ColaPri.h"
+
+1591182364 c:\users\rdsbl\desktop\ex\practica 2 v2\colapri.h
+	"tadcola.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1591182485 c:\users\rdsbl\desktop\ex\practica 2 v2\tadcola.h
+	<iostream>
+	<string.h>
+
+1591184798 source:c:\users\rdsbl\desktop\ex\practica 2 v2\listac.cpp
+	"ListaC.h"
+
+1591177286 c:\users\rdsbl\desktop\ex\practica 2 v2\listac.h
+	<iostream>
+	"tadcola.h"
+
+1591184973 source:c:\users\rdsbl\desktop\ex\practica 2 v2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"ColaPri.h"
+	"TadListaD.h"
+	"tadcola.h"
+	"ListaC.h"
+	<string>
+	<string.h>
+	<fstream>
+	<time.h>
+
+1591184406 c:\users\rdsbl\desktop\ex\practica 2 v2\tadlistad.h
+	<iostream>
+	"ColaPri.h"
+
+1591182716 source:c:\users\rdsbl\desktop\ex\practica 2 v2\tadcola.cpp
+	"tadcola.h"
+
+1591184863 source:c:\users\rdsbl\desktop\ex\practica 2 v2\tadlistad.cpp
+	"TadListaD.h"
+
+1591182781 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\examen\ex\practica 2 v2\colapri.cpp
+	"ColaPri.h"
+
+1591182364 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\examen\ex\practica 2 v2\colapri.h
+	"tadcola.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1591182485 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\examen\ex\practica 2 v2\tadcola.h
+	<iostream>
+	<string.h>
+
+1591184798 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\examen\ex\practica 2 v2\listac.cpp
+	"ListaC.h"
+
+1591177286 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\examen\ex\practica 2 v2\listac.h
+	<iostream>
+	"tadcola.h"
+
+1591184973 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\examen\ex\practica 2 v2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"ColaPri.h"
+	"TadListaD.h"
+	"tadcola.h"
+	"ListaC.h"
+	<string>
+	<string.h>
+	<fstream>
+	<time.h>
+
+1591184406 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\examen\ex\practica 2 v2\tadlistad.h
+	<iostream>
+	"ColaPri.h"
+
+1591182716 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\examen\ex\practica 2 v2\tadcola.cpp
+	"tadcola.h"
+
+1591184863 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 2\examen\ex\practica 2 v2\tadlistad.cpp
+	"TadListaD.h"
+

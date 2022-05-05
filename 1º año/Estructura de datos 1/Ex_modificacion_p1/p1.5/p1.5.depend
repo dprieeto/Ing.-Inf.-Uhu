@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1588765046 source:c:\users\rdsbl\desktop\p1.5\autobuses.cpp
+	"autobuses.h"
+	<iostream>
+	<string.h>
+
+1588764415 c:\users\rdsbl\desktop\p1.5\autobuses.h
+	<fstream>
+
+1588763846 source:c:\users\rdsbl\desktop\p1.5\itinerarios.cpp
+	"itinerarios.h"
+	<iostream>
+	<fstream>
+	<string.h>
+
+1588762842 c:\users\rdsbl\desktop\p1.5\itinerarios.h
+	"autobuses.h"
+
+1588765124 source:c:\users\rdsbl\desktop\p1.5\main.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	"autobuses.h"
+	"itinerarios.h"
+
+1588763846 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 1\examen\p1.5\itinerarios.cpp
+	"itinerarios.h"
+	<iostream>
+	<fstream>
+	<string.h>
+
+1588762842 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 1\examen\p1.5\itinerarios.h
+	"autobuses.h"
+
+1588764415 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 1\examen\p1.5\autobuses.h
+	<fstream>
+
+1588765124 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 1\examen\p1.5\main.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	"autobuses.h"
+	"itinerarios.h"
+
+1592908116 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 1\examen\p1.5\autobuses.cpp
+	"autobuses.h"
+	<iostream>
+	<string.h>
+

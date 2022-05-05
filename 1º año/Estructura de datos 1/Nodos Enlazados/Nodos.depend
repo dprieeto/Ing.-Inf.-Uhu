@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\rdsbl\desktop\listasimple\main.cpp
+	<iostream>
+
+1591574330 source:c:\users\rdsbl\desktop\listasimple\listasimple.cpp
+	"ListaSimple.h"
+
+1591574014 c:\users\rdsbl\desktop\listasimple\listasimple.h
+	<iostream>
+
+1446671344 source:c:\users\rdsbl\desktop\nodos\main.cpp
+	<iostream>
+
+1591574397 source:c:\users\rdsbl\desktop\nodos\pila.cpp
+	"pila.h"
+
+1591574397 c:\users\rdsbl\desktop\nodos\pila.h
+
+1591574600 source:c:\users\rdsbl\desktop\nodos\lista.cpp
+	"Lista.h"
+
+1591574600 c:\users\rdsbl\desktop\nodos\lista.h
+	<iostream>
+

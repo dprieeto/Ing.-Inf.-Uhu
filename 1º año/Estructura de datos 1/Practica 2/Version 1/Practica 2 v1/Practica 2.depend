@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1590689894 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\practica 2\colapri.cpp
+	"ColaPri.h"
+
+1589917477 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\practica 2\colapri.h
+	"tadcola.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1589742851 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\practica 2\tadcola.h
+	<iostream>
+
+1590690505 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\practica 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"ColaPri.h"
+	<string>
+	<string.h>
+	<fstream>
+
+1589822120 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\practica 2\tadcola.cpp
+	"tadcola.h"
+
+1590942077 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 1\practica 2\colapri.cpp
+	"ColaPri.h"
+
+1589917477 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 1\practica 2\colapri.h
+	"tadcola.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1589742851 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 1\practica 2\tadcola.h
+	<iostream>
+
+1590943146 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 1\practica 2\tadcola.cpp
+	"tadcola.h"
+
+1590923465 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 1\practica 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"ColaPri.h"
+	<string>
+	<string.h>
+	<fstream>
+
+1591093740 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 1\practica 2 v1\colapri.cpp
+	"ColaPri.h"
+
+1591035254 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 1\practica 2 v1\colapri.h
+	"tadcola.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1591058175 c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 1\practica 2 v1\tadcola.h
+	<iostream>
+
+1591094087 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 1\practica 2 v1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"ColaPri.h"
+	<string>
+	<string.h>
+	<fstream>
+
+1591058175 source:c:\users\rdsbl\desktop\pretto\estudios\carrera\ingeniería informática uhu\2º año\2º cuatrimestre\ed1\practicas\practica 2\version 1\practica 2 v1\tadcola.cpp
+	"tadcola.h"
+
