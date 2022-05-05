@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571658715 source:c:\users\rdsbl\desktop\guión 3\e3 g3\main.cpp
+	<iostream>
+	"tres.h"
+
+1571657757 c:\users\rdsbl\desktop\guión 3\e3 g3\include\tres.h
+	<iostream>
+	<conio.h>
+
+1571658782 source:c:\users\rdsbl\desktop\guión 3\e3 g3\src\tres.cpp
+	"tres.h"
+

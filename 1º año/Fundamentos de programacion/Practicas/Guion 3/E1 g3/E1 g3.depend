@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1571646166 source:c:\users\rdsbl\desktop\guión 3\e1 g3\main.cpp
+	<iostream>
+	"uno.h"
+
+1571644759 c:\users\rdsbl\desktop\guión 3\e1 g3\include\uno.h
+	<iostream>
+
+1571646355 source:c:\users\rdsbl\desktop\guión 3\e1 g3\src\uno.cpp
+	"uno.h"
+

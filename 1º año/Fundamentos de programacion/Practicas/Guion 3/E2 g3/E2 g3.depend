@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571656917 source:c:\users\rdsbl\desktop\guión 3\e2 g3\main.cpp
+	<iostream>
+	"matrices.h"
+
+1571657474 source:c:\users\rdsbl\desktop\guión 3\e2 g3\src\matrices.cpp
+	"matrices.h"
+
+1571655215 c:\users\rdsbl\desktop\guión 3\e2 g3\include\matrices.h
+	<iostream>
+	<stdlib.h>
+

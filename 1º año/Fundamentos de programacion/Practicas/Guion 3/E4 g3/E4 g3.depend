@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1571656955 source:c:\users\rdsbl\desktop\guión 3\e4 g3\main.cpp
+	<iostream>
+	"cuatro.h"
+
+1571656947 source:c:\users\rdsbl\desktop\guión 3\e4 g3\src\cuatro.cpp
+	"cuatro.h"
+
+1571656947 c:\users\rdsbl\desktop\guión 3\e4 g3\include\cuatro.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
