@@ -1,0 +1,11 @@
+#ESTE ES UN SCRIPT DE GNUPLOT PARA LA COMPARACION DE DOS METODOS
+set title "Comparacion tiempos Burbuja y Quicksort"
+set key top left vertical inside
+set grid
+set xlabel "Talla (n)"
+set ylabel "Tiempo (ms)"
+plot "Burbuja.dat" using 1:2 with lines title"Burbuja","Quicksort.dat" using 1:2 with lines title"Quicksort"
+set terminal pdf
+set output "BurbujaQuicksort.pdf"
+replot
+pause 5 "Pulsa Enter para continuar..."
